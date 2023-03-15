@@ -25,5 +25,4 @@ python manage.py runserver
 
 # Maintainers
 - [Iman Mohammadi](https://github.com/Imanm02)
-- [Arash Yadegari](https://github.com/Arash1381-y)
 - [Hasti Karimi](https://github.com/HastiKarimi)
