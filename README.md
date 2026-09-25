@@ -23,6 +23,9 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+A documented standalone version of this API, with the full endpoint and filter tables, is at
+[Rayanesh-Django-Backend](https://github.com/Imanm02/Rayanesh-Django-Backend).
+
 # Maintainers
 - [Arash Yadegari](https://github.com/Arash1381-y)
 - [Iman Mohammadi](https://github.com/Imanm02)
